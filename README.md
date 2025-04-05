@@ -6,3 +6,6 @@ This project uses a CNN-based model to detect Early Blight and Late Blight in po
 ![Image](https://github.com/user-attachments/assets/71cfcc78-cfce-480e-9d8d-94536d7806d5)
 
 
+![Image](https://github.com/user-attachments/assets/533dedaf-c5ab-49c3-bbdf-c28faf61928c)
+
+
